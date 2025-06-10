@@ -1,136 +1,45 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Himanshu+Ambule;Mechanical+Engineer;Python+Data+Analyst" alt="Typing SVG" />
+</div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Himanshu Ambule | Portfolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Poppins', sans-serif;
-      background: #111;
-      color: #f1f1f1;
-    }
+<h3 align="center" style="color: #ff9900;">Mechanical Engineer → IT | Python Data Analyst</h3>
 
-    header {
-      background-color: #000;
-      color: white;
-      padding: 50px 20px;
-      text-align: center;
-    }
+## 👨‍💻 About Me
 
-    h1 {
-      font-size: 2.8rem;
-      margin-bottom: 0.2em;
-      font-weight: 600;
-    }
+Hello! I am **Himanshu Ambule**, a Mechanical Engineer who has transitioned into the world of **Information Technology**. I have completed programming in **C** and **C++**, and currently focused on **Python for Data Analysis**.
 
-    h3 {
-      color: #ff9900;
-      margin-top: 0;
-      font-weight: 400;
-    }
+## 🛠️ Skills & Technologies
 
-    section {
-      max-width: 900px;
-      margin: auto;
-      padding: 40px 20px;
-    }
+<div align="center">
 
-    .info {
-      font-size: 1.2rem;
-      line-height: 1.9;
-      color: #ddd;
-    }
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-    .skills {
-      background-color: #1a1a1a;
-      padding: 25px;
-      border-radius: 12px;
-      margin-top: 30px;
-      border-left: 6px solid #ff9900;
-    }
+</div>
 
-    .skills h2 {
-      color: #ff9900;
-    }
+## 📊 GitHub Stats
 
-    ul {
-      padding-left: 20px;
-    }
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-ambule&show_icons=true&theme=dark&title_color=ff9900&text_color=ffffff&icon_color=ff9900" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-ambule&theme=dark&ring=ff9900&fire=ff9900&currStreakLabel=ff9900" alt="GitHub Streak" />
+</div>
 
-    ul li {
-      margin-bottom: 10px;
-    }
+## 🤝 Connect with Me
 
-    .contact {
-      margin-top: 40px;
-    }
+<div align="center">
 
-    .contact h2 {
-      color: #ff9900;
-    }
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuambule7843@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/himanshu_ambule07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-    .contact a {
-      color: #ff9900;
-      text-decoration: none;
-    }
+</div>
 
-    .contact a:hover {
-      text-decoration: underline;
-    }
-
-    footer {
-      background: #000;
-      color: #666;
-      text-align: center;
-      padding: 20px;
-      font-size: 0.9rem;
-      margin-top: 50px;
-    }
-
-    @media (max-width: 600px) {
-      h1 { font-size: 2rem; }
-    }
-  </style>
-</head>
-<body>
-
-  <header>
-    <h1>Himanshu Ambule</h1>
-    <h3>Mechanical Engineer → IT | Python Data Analyst</h3>
-  </header>
-
-  <section>
-    <div class="info">
-      <p>Hello! I am <strong>Himanshu Ambule</strong>, a Mechanical Engineer who has transitioned into the world of <strong>Information Technology</strong>.</p>
-      <p>I have completed programming in <strong>C</strong> and <strong>C++</strong>, and currently focused on <strong>Python for Data Analysis</strong>.</p>
-    </div>
-
-    <div class="skills">
-      <h2>Skills & Technologies</h2>
-      <ul>
-        <li>C Programming</li>
-        <li>C++ Programming</li>
-        <li>Python</li>
-        <li>Pandas, NumPy, Matplotlib</li>
-        <li>Data Analysis & Visualization</li>
-        <li>Git & GitHub</li>
-      </ul>
-    </div>
-
-    <div class="contact">
-      <h2>Contact</h2>
-      <p>Email: <a href="mailto:himanshuambule7843@gmail.com">himanshuambule7843@gmail.com</a></p>
-      <p>Instagram: <a href="https://www.instagram.com/himanshu_ambule07?igsh=bXd4OW1tbmdjcnE2" target="_blank">@himanshu_ambule07</a></p>
-    </div>
-  </section>
-
-  <footer>
-    © 2025 Himanshu Ambule. All Rights Reserved.
-  </footer>
-
-</body>
-</html>
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu-ambule&color=ff9900&style=flat-square" alt="Profile Views" />
+</div>
