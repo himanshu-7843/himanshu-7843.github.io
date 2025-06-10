@@ -1,10 +1,4 @@
-<header>
-  <h1>
-    <span style="color: white; background: #000; padding: 6px 10px;">Himanshu</span>
-    <span style="color: white; background: #ff9900; padding: 6px 10px;">Ambule</span>
-  </h1>
-  <h3>Mechanical Engineer → IT | Python Data Analyst</h3>
-</header>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -104,7 +98,10 @@
 </head>
 <body>
 
-  
+  <header>
+    <h1>Himanshu Ambule</h1>
+    <h3>Mechanical Engineer → IT | Python Data Analyst</h3>
+  </header>
 
   <section>
     <div class="info">
@@ -127,7 +124,7 @@
     <div class="contact">
       <h2>Contact</h2>
       <p>Email: <a href="mailto:himanshuambule7843@gmail.com">himanshuambule7843@gmail.com</a></p>
-      <p>Instagram: <a href="https://www.instagram.com/himanshu_ambule07" target="_blank">@himanshu_ambule07</a></p>
+      <p>Instagram: <a href="https://www.instagram.com/himanshu_ambule07?igsh=bXd4OW1tbmdjcnE2" target="_blank">@himanshu_ambule07</a></p>
     </div>
   </section>
 
